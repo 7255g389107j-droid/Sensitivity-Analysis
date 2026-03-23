@@ -2,6 +2,8 @@
 # FULL-SCALE SENSITIVITY ENGINE: LOO-STABILITY TRACKER (ENHANCED)
 # Purpose: Detect "System Perturbers" via leave-one-out impact analysis
 # Developed by: Tatsuki Itagaki
+# License: CC BY 4.0 (https://creativecommons.org)
+# Please cite DOI: 10.13140/RG.2.2.10891.14886 and 10.1007/s11004-011-9332-y when using this code.
 # =================================================================
 
 # --- 1. CORE WRAPPER FOR STABILITY METRICS ---
